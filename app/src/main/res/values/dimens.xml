@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="SizeTV">20sp</dimen>
+    <dimen name="SizeButton">22sp</dimen>
+    <dimen name="SizeTXT">14sp</dimen>
+</resources>
